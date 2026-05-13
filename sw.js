@@ -1,4 +1,4 @@
-const CACHE = 'makro-tracker-v3';
+const CACHE = 'makro-tracker-v4';
 const ASSETS = [
   './',
   './index.html',
